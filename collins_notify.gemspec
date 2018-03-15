@@ -38,7 +38,7 @@ Gem::Specification.new do |s|
     "templates/default_irc.erb",
     "templates/default_slack.erb"
   ]
-  s.homepage = "https://github.com/tumblr/collins/tree/master/support/ruby/collins-notify"
+  s.homepage = "https://github.com/tumblr/collins_notify"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.23"
